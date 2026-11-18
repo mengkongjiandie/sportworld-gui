@@ -33,22 +33,6 @@
 > 3. Fixes a few protocol bugs for app version 7.3.93
 
 
-> ## ⚠️ Read Before Use
->
-> 1. **For Android reverse engineering and protocol research only**
-> 2. **Commercial proxy-running, paid services, and resale are prohibited**
-> 3. **Maintenance stops immediately upon request from the official team**
->
-> Use only on **your own devices, your own accounts**, or in explicitly authorized
-> test environments. You bear all consequences (invalidated records, account
-> restrictions, etc.); the author assumes no liability.
->
-> The protocol implementation comes from
-> [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness) (MIT).
-> This project only adds a GUI and packaging on top of it, under the same terms.
-
----
-
 ## Why this exists
 
 The upstream `com.zjwh.android_wh_physicalfitness` is a pure-Python CLI tool. Complete, but with a real entry barrier:
@@ -173,20 +157,6 @@ All patches are marked with `[PATCH]` comments in the original source files.
 - **Login requires a browser** — Geetest v4 requires a real browser, hence the dependency on system Edge
 - **Version-sensitive** — protocol changes with app updates and may need re-adaptation
 - **Only submits run records** — does not touch any other app functionality
-
----
-
-## Disclaimer
-
-This project is **for learning and technical research only** (Android protocol reverse engineering, GUI development, Python packaging). Do not use it for:
-
-- Commercial gain or paid proxy-running services
-- Damaging computer information systems
-- Accessing other people's accounts or data
-
-You are solely responsible for any consequences (including but not limited to invalidated records, account restrictions, or disciplinary action).
-
-**The protocol layer originates from [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness) and remains under its original license (MIT).**
 
 ---
 

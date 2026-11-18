@@ -31,20 +31,6 @@
 > 3. 修了几个适配 App 7.3.93 的协议 bug
 
 
-> ## ⚠️ 使用前必读
->
-> 1. **仅面向 Android 逆向与网络协议工程的学习研究**
-> 2. **禁止商业代跑、收费服务、倒卖传播**
-> 3. **官方联系后立即停止维护并下架**
->
-> 本项目仅限在**本人设备、本人账号**或已获授权的测试环境使用。
-> 使用者需自行承担成绩作废、账号限制等一切后果，作者不对任何使用后果负责。
->
-> 协议层实现来自 [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness)（MIT），
-> 本项目仅在其上提供图形界面与打包，并遵循原项目的授权条款。
-
----
-
 ## 为什么做这个
 
 原项目 `com.zjwh.android_wh_physicalfitness` 是纯 Python 命令行工具，功能完整但门槛不低：
@@ -169,20 +155,6 @@ git clone → 装 Python 3.10+ → playwright install chromium → 记一堆命�
 - **密码登录需要浏览器**：极验 v4 滑块必须用真浏览器，所以登录依赖系统 Edge
 - **协议版本敏感**：App 升级后协议可能失效，需重新适配
 - **不影响真实运动数据**：本工具只提交跑步记录，不改动其他功能
-
----
-
-## 免责声明
-
-本项目**仅供学习与技术研究**（Android 协议逆向、图形界面开发、Python 打包），请勿用于：
-
-- 商业牟利、收费代跑
-- 破坏计算机信息系统
-- 侵犯他人账号或数据
-
-使用者应自行承担因使用本项目产生的一切后果（包括但不限于成绩作废、账号限制、校规处理）。
-
-**本项目的协议层代码来自 [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness)，遵循其原许可（MIT）。**
 
 ---
 
