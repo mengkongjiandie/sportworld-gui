@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 运行时产生的文件（含个人数据，不要提交）
+_session.json
+_session_backup.json
+_settings_backup.json
+settings.json
+error.log
+.tmp/
+_checkpoints_cache.json*
+
+# 打包产物
+*.exe
+*.zip
+node/
+_internal/
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+# 上游版本库残留（不要提交）
+com.zjwh.android_wh_physicalfitness/.git/
+
+# 补丁备份
+*.bak
