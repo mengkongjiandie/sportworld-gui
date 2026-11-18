@@ -7,12 +7,47 @@
 
 > 中文 → [README.md](README.md)
 
+---
+
+> ## ⚠️ Read Before Use
+>
+> 1. **For Android reverse engineering and protocol research only**
+> 2. **Commercial proxy-running, paid services, and resale are prohibited**
+> 3. **Maintenance stops immediately upon request from the official team**
+>
+> Use only on **your own devices, your own accounts**, or in explicitly authorized
+> test environments. You bear all consequences (invalidated records, account
+> restrictions, etc.); the author assumes no liability.
+>
+> The protocol implementation comes from
+> [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness) (MIT).
+> This project only adds a GUI and packaging on top of it, under the same terms.
+
+---
+
 > **This is a portable desktop client for [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness).**
 > Protocol reverse engineering, NetSec crypto reconstruction, Geetest slider solving and track synthesis are **entirely the original author's work**. This repository only does three things:
 >
 > 1. Wraps it in a tkinter GUI
 > 2. Packages it into a **zero-dependency exe** (no Python / Node / environment setup required)
 > 3. Fixes a few protocol bugs for app version 7.3.93
+
+
+> ## ⚠️ Read Before Use
+>
+> 1. **For Android reverse engineering and protocol research only**
+> 2. **Commercial proxy-running, paid services, and resale are prohibited**
+> 3. **Maintenance stops immediately upon request from the official team**
+>
+> Use only on **your own devices, your own accounts**, or in explicitly authorized
+> test environments. You bear all consequences (invalidated records, account
+> restrictions, etc.); the author assumes no liability.
+>
+> The protocol implementation comes from
+> [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness) (MIT).
+> This project only adds a GUI and packaging on top of it, under the same terms.
+
+---
 
 ## Why this exists
 

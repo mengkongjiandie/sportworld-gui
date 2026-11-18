@@ -7,12 +7,43 @@
 
 > English → [README.en.md](README.en.md)
 
+---
+
+> ## ⚠️ 使用前必读
+>
+> 1. **仅面向 Android 逆向与网络协议工程的学习研究**
+> 2. **禁止商业代跑、收费服务、倒卖传播**
+> 3. **官方联系后立即停止维护并下架**
+>
+> 本项目仅限在**本人设备、本人账号**或已获授权的测试环境使用。
+> 使用者需自行承担成绩作废、账号限制等一切后果，作者不对任何使用后果负责。
+>
+> 协议层实现来自 [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness)（MIT），
+> 本项目仅在其上提供图形界面与打包，并遵循原项目的授权条款。
+
+---
+
 > **本项目是 [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness) 的免安装图形客户端。**
 > 协议逆向、NetSec 加密还原、极验滑块破解、轨迹合成等核心工作**全部来自原作者**，本仓库只做三件事：
 >
 > 1. 套一层 tkinter 图形界面
 > 2. 打包成**零依赖 exe**（不用装 Python / Node / 配环境）
 > 3. 修了几个适配 App 7.3.93 的协议 bug
+
+
+> ## ⚠️ 使用前必读
+>
+> 1. **仅面向 Android 逆向与网络协议工程的学习研究**
+> 2. **禁止商业代跑、收费服务、倒卖传播**
+> 3. **官方联系后立即停止维护并下架**
+>
+> 本项目仅限在**本人设备、本人账号**或已获授权的测试环境使用。
+> 使用者需自行承担成绩作废、账号限制等一切后果，作者不对任何使用后果负责。
+>
+> 协议层实现来自 [Inverx/com.zjwh.android_wh_physicalfitness](https://github.com/Inverx/com.zjwh.android_wh_physicalfitness)（MIT），
+> 本项目仅在其上提供图形界面与打包，并遵循原项目的授权条款。
+
+---
 
 ## 为什么做这个
 
